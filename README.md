@@ -44,12 +44,12 @@ Each method is accompanied by an interactive HTML report/visualization and a sta
 An adaptive deformed polygon (simplex) method that does not require the calculation of derivatives.
 
 **$f_{0}(x) = \frac{1}{5}x^4 + x^3$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_2d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_2d.html)
   * Static optimization trajectory preview:
     ![Nelder-Mead Function 1](images/nelder_mead_method_2d.png)
 
  **$f_{1}(x, y) = (x-7)^2 + 3y^4$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_3d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_3d.html)
   * Static optimization trajectory preview:
     ![Nelder-Mead Function 2](images/nelder_mead_method_3d.png)
 
@@ -59,12 +59,12 @@ An adaptive deformed polygon (simplex) method that does not require the calculat
 A first-order optimization method that uses the anti-gradient for iterative movement toward the function's minimum.
 
 **$f_{0}(x) = \frac{1}{5}x^4 + x^3$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_2d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_2d.html)
   * Static optimization trajectory preview:
     ![Gradient Descent Function 1](images/gradient_descent_method_2d.png)
 
  **$f_{1}(x, y) = (x-7)^2 + 3y^4$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_3d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_3d.html)
   * Static optimization trajectory preview:
     ![Gradient Descent Function 2](images/gradient_descent_method_3d.png)
 
@@ -74,11 +74,11 @@ A first-order optimization method that uses the anti-gradient for iterative move
 A second-order optimization method that utilizes both the gradient and the inverse Hessian matrix for rapid quadratic approximation to the minimum.
 
 **$f_{0}(x) = \frac{1}{5}x^4 + x^3$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 1](images/newtons_method_2d.png)
 
 **$f_{1}(x, y) = (x-7)^2 + 3y^4$**
-  * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_3d.html)
+  * [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_3d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 2](images/newtons_method_3d.png)
