@@ -73,12 +73,12 @@ A first-order optimization method that uses the anti-gradient for iterative move
 ### 3. Newton's Method
 A second-order optimization method that utilizes both the gradient and the inverse Hessian matrix for rapid quadratic approximation to the minimum.
 
-- ** $f_{0}(x) = \frac{1}{5}x^4 + x^3$ **
+- **$f_{0}(x) = \frac{1}{5}x^4 + x^3$**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 1](images/newtons_method_2d.png)
 
-- ** $f_{1}(x, y) = (x-7)^2 + 3y^4$ **
+- **$f_{1}(x, y) = (x-7)^2 + 3y^4$**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_3d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 2](images/newtons_method_3d.png)
