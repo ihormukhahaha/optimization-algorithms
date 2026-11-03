@@ -43,12 +43,12 @@ Each method is accompanied by an interactive HTML report/visualization and a sta
 ### 1. Nelder-Mead Optimization
 An adaptive deformed polygon (simplex) method that does not require the calculation of derivatives.
 
-- **For Function 1 ($f_{1}$):**
+- **For Function 1 ($f_{0}(x) = \frac{1}{5}x^4 + x^3$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_2d.html)
   * Static optimization trajectory preview:
     ![Nelder-Mead Function 1](images/nelder_mead_method_2d.png)
 
-- **For Function 2 ($f_{2}$):**
+- **For Function 2 ($f_{1}(x, y) = (x-7)^2 + 3y^4$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_3d.html)
   * Static optimization trajectory preview:
     ![Nelder-Mead Function 2](images/nelder_mead_method_3d.png)
@@ -58,12 +58,12 @@ An adaptive deformed polygon (simplex) method that does not require the calculat
 ### 2. Gradient Descent
 A first-order optimization method that uses the anti-gradient for iterative movement toward the function's minimum.
 
-- **For Function 1 ($f_{1}$):**
+- **For Function 1 ($f_{0}(x) = \frac{1}{5}x^4 + x^3$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_2d.html)
   * Static optimization trajectory preview:
     ![Gradient Descent Function 1](images/gradient_descent_method_2d.png)
 
-- **For Function 2 ($f_{2}$):**
+- **For Function 2 ($f_{1}(x, y) = (x-7)^2 + 3y^4$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_3d.html)
   * Static optimization trajectory preview:
     ![Gradient Descent Function 2](images/gradient_descent_method_3d.png)
@@ -73,12 +73,12 @@ A first-order optimization method that uses the anti-gradient for iterative move
 ### 3. Newton's Method
 A second-order optimization method that utilizes both the gradient and the inverse Hessian matrix for rapid quadratic approximation to the minimum.
 
-- **For Function 1 ($f_{1}$):**
+- **For Function 1 ($f_{0}(x) = \frac{1}{5}x^4 + x^3$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 1](images/newtons_method_2d.png)
 
-- **For Function 2 ($f_{2}$):**
+- **For Function 2 ($f_{1}(x, y) = (x-7)^2 + 3y^4$):**
   * 🔗 [Open Interactive HTML Report](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_3d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 2](images/newtons_method_3d.png)
