@@ -44,7 +44,7 @@ Each method is accompanied by an interactive HTML report/visualization and a sta
 An adaptive deformed polygon (simplex) method that does not require the calculation of derivatives.
 
 - **For Function 1 ($f_{1}$):**
-  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_2d.html) | 🔗 [3D Version](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_3d.html)
+  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/nelder_mead_method_2d.html)
   * Static optimization trajectory preview:
     ![Nelder-Mead Function 1](images/nelder_mead_method_2d.png)
 
@@ -59,7 +59,7 @@ An adaptive deformed polygon (simplex) method that does not require the calculat
 A first-order optimization method that uses the anti-gradient for iterative movement toward the function's minimum.
 
 - **For Function 1 ($f_{1}$):**
-  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_2d.html) | 🔗 [3D Version](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_3d.html)
+  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/gradient_descent_method_2d.html)
   * Static optimization trajectory preview:
     ![Gradient Descent Function 1](images/gradient_descent_method_2d.png)
 
@@ -74,7 +74,7 @@ A first-order optimization method that uses the anti-gradient for iterative move
 A second-order optimization method that utilizes both the gradient and the inverse Hessian matrix for rapid quadratic approximation to the minimum.
 
 - **For Function 1 ($f_{1}$):**
-  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html) | 🔗 [3D Version](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_3d.html)
+  * 🔗 [Open Interactive HTML Report (2D)](https://htmlpreview.github.io/?https://github.com/ihormukhahaha/optimization-algorithms/blob/main/html/newtons_method_2d.html)
   * Static optimization trajectory preview:
     ![Newton Method Function 1](images/newtons_method_2d.png)
 
