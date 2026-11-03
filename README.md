@@ -19,7 +19,7 @@ The project has a modular structure:
   * Logic for finding best and worst points for adaptive update algorithms.
 * **`optimization_methods.py`** — contains a collection of ready-to-use optimization algorithms (the Nelder-Mead method, the Gradient Descent method, and the Newton method), built from the primitives of the previous module.
 * **`visualization.py`** — tools for constructing two-dimensional and three-dimensional graphs. It has built-in support for interactive rendering (Plotly) with automatic saving of results in `.html` format and static `.png` images.
-* **`functions.py`** — a module containing basic test functions (e.g., $f_{1}(x, y) = \frac{1}{5}x^4 + x^3$ and $f_{2}(x, y) = (x-7)^2 + 3y^4$). The structure makes it easy to add your own functions for testing.
+* **`functions.py`** — a module containing basic test functions (e.g., $f_{0}(x) = \frac{1}{5}x^4 + x^3$ and $f_{1}(x, y) = (x-7)^2 + 3y^4$). The structure makes it easy to add your own functions for testing.
 * **`Optimization_Demo.ipynb`** — a demonstration Jupyter Notebook that clearly illustrates examples of initialization, running algorithms, and analyzing results.
 
 ---
@@ -27,8 +27,8 @@ The project has a modular structure:
 ## ⚙️ Usage and Expansion
 
 In the basic configuration, we use functions from the `functions.py` file:
-1. **Function 1:** $f_{1}(x, y) = \frac{1}{5}x^4 + x^3$
-2. **Function 2:** $f_{2}(x, y) = (x-7)^2 + 3y^4$
+1. **Function 1:** $f_{0}(x) = \frac{1}{5}x^4 + x^3$
+2. **Function 2:** $f_{1}(x, y) = (x-7)^2 + 3y^4$
 
 > You can easily extend the `functions.py` file with your own mathematical functions and test how all optimization algorithms work with them.
 
