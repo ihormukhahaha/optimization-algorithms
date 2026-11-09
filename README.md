@@ -1,15 +1,14 @@
 # Optimization Algorithms
 
-A compact, fully self-contained framework for numerical optimization and visualization, where the mathematical part is written in **“vanilla” Python** without using any third-party mathematical or optimization libraries. All basic mathematical operations, including the calculation of derivatives, gradients, the Hessian matrix, its inverse, and the implementation of point-updating algorithms (search for best and worst points), are written “from scratch” to provide a deep understanding of the inner workings of numerical methods.
+A framework for numerical optimization and visualization, in which the entire mathematical foundation is implemented in "pure" Python—without the use of third-party mathematical or optimization libraries. All fundamental mathematical operations—such as calculating derivatives, gradients, and the Hessian matrix (including its inversion), as well as point-update algorithms (identifying optimal and suboptimal values)—have been written from scratch to foster a deep understanding of the internal mechanisms of numerical methods.
 
-
-This project allows you to specify arbitrary objective functions, select starting points, set the number of iterations, and explore the behavior of classical optimization algorithms in an interactive environment.
+The project allows users to define arbitrary objective functions, select starting points, specify the number of iterations, and explore the behavior of classical optimization methods within an interactive environment.
 
 
 ---
 
 
-## 📂 Project Architecture
+## Project Architecture
 
 The project has a modular structure:
 
@@ -24,7 +23,7 @@ The project has a modular structure:
 
 ---
 
-## ⚙️ Usage and Expansion
+## Usage and Expansion
 
 In the basic configuration, we use functions from the `functions.py` file:
 1. **Function 1:** $f_{0}(x) = \frac{1}{5}x^4 + x^3$
@@ -34,7 +33,7 @@ In the basic configuration, we use functions from the `functions.py` file:
 
 ---
 
-## 📊 Examples and Results of Execution
+## Examples and Results of Execution
 
 Below are the results of testing three main optimization algorithms for two test functions (6 scenarios).
 
