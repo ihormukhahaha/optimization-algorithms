@@ -4,9 +4,7 @@ A framework for numerical optimization and visualization, in which the entire ma
 
 The project allows users to define arbitrary objective functions, select starting points, specify the number of iterations, and explore the behavior of classical optimization methods within an interactive environment.
 
-
 ---
-
 
 ## Project Architecture
 
